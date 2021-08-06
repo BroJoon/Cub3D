@@ -12,7 +12,7 @@ To make this project I followed a tutorial from https://lodev.org/cgtutor/raycas
 
 https://github.com/365kim/raycasting_tutorial
 
-[cub3d_lect.pdf](https://github.com/BroJoon/cub3d/files/6946684/cub3d_lect.pdf)
+![my_cub3d](https://user-images.githubusercontent.com/52714837/128540034-a2159b4a-fa7b-42eb-8976-654bd6eade72.jpg)
 
 
 ### ✅ configuration for Linux
