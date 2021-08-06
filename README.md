@@ -8,7 +8,7 @@ cub3d is a graphical project part of 42 school \
 
 The goal is to reproduce a small version of the wolfenstein game.
 
-To make this project I followed a tutorial from https://lodev.org/.
+To make this project I followed a tutorial from https://lodev.org/cgtutor/raycasting.html#Introduction
 
 ### 💻 How to Run
 
