@@ -12,7 +12,7 @@ To make this project I followed a tutorial from https://lodev.org/cgtutor/raycas
 
 https://github.com/365kim/raycasting_tutorial
 
-###✅ configuration Linux
+### ✅ configuration for Linux
 
 ### 💻 How to Run
 
