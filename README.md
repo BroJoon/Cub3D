@@ -12,6 +12,8 @@ To make this project I followed a tutorial from https://lodev.org/cgtutor/raycas
 
 https://github.com/365kim/raycasting_tutorial
 
+![2312313](https://user-images.githubusercontent.com/52714837/128539043-c590fc22-d794-4122-80b0-68832a275e31.jpg)
+
 ### ✅ configuration for Linux
 
 ### 💻 How to Run
@@ -19,3 +21,5 @@ https://github.com/365kim/raycasting_tutorial
 make
 
 ./cub3D map1.cup
+
+
