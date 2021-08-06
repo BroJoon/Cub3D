@@ -2,7 +2,7 @@
 
 ### 🎯 Object
 
-Let's dive in to raycasting
+Let's dive into raycasting
 
 cub3d is a graphical project part of 42 school
 
