@@ -14,4 +14,4 @@ To make this project I followed a tutorial from https://lodev.org/.
 
 make
 
-./Cub3d map
+./cub3D map1.cup
