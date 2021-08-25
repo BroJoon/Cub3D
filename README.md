@@ -19,8 +19,9 @@ https://github.com/365kim/raycasting_tutorial
 
 ### 💻 How to Run
 
-make
-
-./cub3D map1.cup
+```command
+> make
+> ./cub3D map1.cup
+```
 
 
